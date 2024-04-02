@@ -53,23 +53,6 @@
       }
     ],
     "vehicle": [
-      {
-        "id": "aaa7",
-        "email": "kwasyamzi@gmail.com",
-        "product": "Toyota",
-        "price": "GHC 200000",
-        "color": "black",
-        "image": "/img/products/loader.gif",
-        "country": "Ghana",
-        "seller_name": "Asvan",
-        "date": "3/29/2024 11:15 AM",
-        "size": "",
-        "contact": "00077777777777",
-        "description": "nothing",
-        "materialU": "haha",
-        "category": "vehicle",
-        "status": "posted"
-      }
     ],
     "art_craft": [],
     "electronic": [],
@@ -77,23 +60,7 @@
     "fashion": [],
     "babies_kids": [],
     "agric": [
-      {
-        "id": "1486",
-        "email": "kwasyamzi@gmail.com",
-        "product": "gobe",
-        "price": "3",
-        "color": "",
-        "image": "/img/products/loader.gif",
-        "country": "Ghana",
-        "seller_name": "Asvan",
-        "date": "3/29/2024 07:34 PM",
-        "size": "",
-        "contact": "3",
-        "description": "dddddd",
-        "materialU": "",
-        "category": "agric",
-        "status": "posted"
-      }
+     
     ],
     "property": [],
     "categories": [
